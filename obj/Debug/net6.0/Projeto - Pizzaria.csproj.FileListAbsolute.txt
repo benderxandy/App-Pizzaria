@@ -1,0 +1,15 @@
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projeto - Pizzaria\bin\Debug\net6.0\Projeto - Pizzaria.exe
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projeto - Pizzaria\bin\Debug\net6.0\Projeto - Pizzaria.deps.json
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projeto - Pizzaria\bin\Debug\net6.0\Projeto - Pizzaria.runtimeconfig.json
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projeto - Pizzaria\bin\Debug\net6.0\Projeto - Pizzaria.dll
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projeto - Pizzaria\bin\Debug\net6.0\Projeto - Pizzaria.pdb
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projeto - Pizzaria\obj\Debug\net6.0\Projeto - Pizzaria.csproj.AssemblyReference.cache
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projeto - Pizzaria\obj\Debug\net6.0\Projeto - Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projeto - Pizzaria\obj\Debug\net6.0\Projeto - Pizzaria.AssemblyInfoInputs.cache
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projeto - Pizzaria\obj\Debug\net6.0\Projeto - Pizzaria.AssemblyInfo.cs
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projeto - Pizzaria\obj\Debug\net6.0\Projeto - Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projeto - Pizzaria\obj\Debug\net6.0\Projeto - Pizzaria.dll
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projeto - Pizzaria\obj\Debug\net6.0\refint\Projeto - Pizzaria.dll
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projeto - Pizzaria\obj\Debug\net6.0\Projeto - Pizzaria.pdb
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projeto - Pizzaria\obj\Debug\net6.0\Projeto - Pizzaria.genruntimeconfig.cache
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projeto - Pizzaria\obj\Debug\net6.0\ref\Projeto - Pizzaria.dll
